@@ -1,0 +1,110 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.box1 p{
+    color: black;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    
+    margin:  30px  20px -100px  -180px;
+
+    
+}
+ .box1{
+    background-color: rgba(255,255,255, 0.9);
+    height: 700px;
+    width: 700px;
+    margin: 100px 70px 80px 120px;
+    padding: 120px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+body{
+    background-color: antiquewhite
+    ;
+}
+
+.login {
+    margin: -780px 100px 100px 900px;
+    width: 300px;
+    height: 200px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: -220px;
+   
+}
+
+
+
+h2{
+    color: #008B8B;
+    text-shadow: var(--x-offset)
+    var(--y-offset)
+    0px
+    var(--background-color), 
+    
+    calc( var(--x-offset) - var(--stroke) )
+    calc( var(--y-offset) + var(--stroke) )
+    0px
+    var(--stroke-color); ;
+    font-size: 50px;
+    height: 700px;
+    width: 700px;
+    margin: 26px 70px 210px -1150px;
+    padding: 120px;
+}
+
+.item h1{
+
+    color: #008B8B;
+   
+  margin: 20px 20px 80px;
+
+}
+.box2{
+    margin: 50px -110px 460px;
+    padding: 4px;
+   float:  left;
+}
+    
+.boxx{
+
+    margin:  -440x 50px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.box2 p{
+
+    width: 20px;
+    height: 30px;
+    margin: 20px 30px 35px;
+}
+.box h2 {
+
+    color: #008B8B; 
+    font-size: 50px;
+    height: 700px;
+    width: 700px;
+    margin: -550px 200px -80px 203px;
+    padding: 12px;
+}
+.item button{
+
+margin: -20px 80px 100px;
+}
+
+
